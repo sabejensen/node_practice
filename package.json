@@ -1,0 +1,11 @@
+{
+  "name": "node_practice",
+  "version": "0.0.1",
+  "description": "Node practice app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Jensen",
+  "license": "ISC"
+}
